@@ -2,10 +2,7 @@
   "name": "heroku-docker-app",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "18.16.0",
-    "npm": ">=6.0.0"
-  },
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
